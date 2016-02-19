@@ -1,0 +1,43 @@
+ Version 1.0.3 - "And it doesn't saves... not yet!"
+
+	Então, pessoal, consegui corrigir todos os bugs que 
+ eu havia encontrado no programa, então todos os métodos
+ estão funcionando na mais perfeita harmonia, mas há um
+ problema: nenhuma das formas de salvar arquivos que eu
+ encontrei na internet parece funcionar nesse programa,
+ e devido à existencia de listas dentro de listas, é in-
+ viável salvar tudo dentro de um arquivo .txt;
+ 
+ 	As classes que precisam ser salvas (ListaProfessores
+ e ListaTurmas) foram implementadas através de uma inter-
+ face "Serializable", o que permite, ao menos deveria, 
+ que essas classes possam ser passadas inteiramente para
+ um arquivo, mas não consegui realizar essa proeza ;-;
+
+
+---------------------------------------------------------	
+ Version 1.0.1 - "Let there be light!"
+	
+	Esse software conseguiu ficar um pouquinho gigantesco
+ (não não são níveis normais .-. , só na classe principal
+ foram 800+ linhas).
+
+	Ainda não foi implementada a classe que vai arquivar
+ as estruturas já desenvolvidas, mas até onde eu consegui
+ testar o nosso software está funcionando maravilhosamen-
+ te bem \o/
+
+	Enquando a próxima versão do software não é liberada,
+ com o patch "and now it saves", é altamente recomendável
+ que todos os envolvidos façam os testes possíveis na ver-
+ são atual, para confirmar que eu, na minha mais infinita 
+ falta de atenção, não deixei passar despercebido nenhum
+ bug ou afins que possam prejudicar o bom funcionamento do
+ nosso software.
+ 
+ 	Por enquanto é isso, pessoal :D
+	Qualquer problema me avisem.
+	Um abraço, e até a próxima o/
+											    Dhiineres
+	
+	P.S.: A senha é: quinta
